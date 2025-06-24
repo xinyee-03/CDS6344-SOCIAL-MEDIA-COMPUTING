@@ -16,3 +16,10 @@ To improve and extend this project, several future directions are proposed:
 - **Enhance emotion granularity**: Go beyond basic positive/neutral/negative categories by introducing sub-classes such as joyful, melancholic, or angry, or apply multi-label emotion tagging.
 - **Improve sentiment labeling**: Incorporate hybrid labeling strategies that blend rule-based methods like VADER with machine learning classification to create more accurate sentiment tags.
 This foundation opens up exciting possibilities for more nuanced analysis of musical sentiment using modern NLP techniques.
+
+## References
+This project was inspired and guided by the following publicly available resource:
+- richajain44. *Sentiment Analysis of Music Lyrics*. GitHub Repository.  
+  [https://github.com/richajain44/Sentiment-Analysis-of-Music-Lyrics](https://github.com/richajain44/Sentiment-Analysis-of-Music-Lyrics)
+
+Special thanks for the baseline inspiration and structure reference.
