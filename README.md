@@ -3,6 +3,7 @@ project for sentiment analysis of English song lyrics using traditional ML and B
 
 ## Dataset
 This project uses the English Song Lyrics Dataset from Kaggle: https://www.kaggle.com/datasets/deepshah16/song-lyrics-dataset
+We manually filtered and combined lyrics written by male artists from the original dataset to form `english_male_artists_combined.csv`, which was used for all training and evaluation.
 
 ## Word Embedding
 This project uses pre-trained GloVe vectors for word embeddings.
